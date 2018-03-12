@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For Timer Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PressButton	KEYWORD1
+PressButtonAnalog	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+checkState	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+BTN_IDLE	LITERAL1
+BTN_BOUNCE	LITERAL1
+BTN_PRESSED	LITERAL1
+BTN_BOUNCE2	LITERAL1
+BTN_RELEASED	LITERAL1
+ACTIVE_LOW	LITERAL1
+ACTIVE_HIGH	LITERAL1
